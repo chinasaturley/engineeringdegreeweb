@@ -1,0 +1,353 @@
+.csu95admissions {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2058px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .csu95admissions .overlap-group {
+    height: 43px;
+    position: relative;
+    width: 291px;
+  }
+  
+  .csu95admissions .place {
+    height: 43px;
+    left: 141px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 150px;
+  }
+  
+  .csu95admissions .header {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    justify-content: flex-start;
+    margin-right: 1.0px;
+    min-width: 1441px;
+    mix-blend-mode: normal;
+    width: auto;
+  }
+  
+  .csu95admissions .overlap-group3 {
+    height: 583px;
+    position: relative;
+    width: 1441px;
+  }
+  
+  .csu95admissions .image-1 {
+    height: 581px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+    width: 1440px;
+  }
+  
+  .csu95admissions .rectangle-3 {
+    background-color: var(--black);
+    height: 146px;
+    left: 1px;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .csu95admissions .rectangle-4 {
+    background-color: var(--merlot);
+    height: 437px;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 146px;
+    width: 1440px;
+  }
+  
+  .csu95admissions .title {
+    height: 93px;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 31px;
+    width: 1321px;
+  }
+  
+  .csu95admissions .boldy-go-to-a {
+    height: 263px;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 225px;
+    width: 1321px;
+  }
+  
+  .csu95admissions .overlap-group-1 {
+    left: 924px;
+    position: absolute;
+    top: 430px;
+  }
+  
+  .csu95admissions .get-info {
+    height: 93px;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 268px;
+  }
+  
+  .csu95admissions .rectangle-10 {
+    border: 5px solid;
+    border-color: var(--white);
+    border-radius: 15px;
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 9px;
+    width: 432px;
+  }
+  
+  .csu95admissions .overlap-group1 {
+    height: 93px;
+    left: 924px;
+    position: absolute;
+    top: 206px;
+    width: 432px;
+  }
+  
+  .csu95admissions .apply-today {
+    height: 93px;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 268px;
+  }
+  
+  .csu95admissions .overlap-group2 {
+    height: 93px;
+    left: 924px;
+    position: absolute;
+    top: 318px;
+    width: 432px;
+  }
+  
+  .csu95admissions .visit-twu {
+    height: 93px;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 268px;
+  }
+  
+  .csu95admissions .admissionreqs {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 0.13px;
+    margin-top: 63px;
+    min-height: 466px;
+    width: 1258px;
+  }
+  
+  .csu95admissions .dw_-title {
+    height: 93px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-right: 54.87px;
+    margin-top: -1px;
+    text-align: center;
+    width: 915px;
+  }
+  
+  .csu95admissions .image-2 {
+    height: 280px;
+    margin-top: 15px;
+    object-fit: cover;
+    width: 1258px;
+  }
+  
+  .csu95admissions .students-container {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 3.87px;
+    margin-top: 13px;
+    min-width: 1254px;
+  }
+  
+  .csu95admissions .first-year-students {
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    text-decoration: underline;
+    width: 390px;
+  }
+  
+  .csu95admissions .transfer-students {
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 43px;
+    text-align: center;
+    text-decoration: underline;
+    width: 390px;
+  }
+  
+  .csu95admissions .graduate-students {
+    height: 65px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 41px;
+    text-align: center;
+    text-decoration: underline;
+    width: 390px;
+  }
+  
+  .csu95admissions .programs-container {
+    height: 445px;
+    margin-top: 73px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .csu95admissions .programs {
+    align-items: flex-start;
+    background-image: url(../img/image-3.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 445px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1440px;
+    padding: 9px 145px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .csu95admissions .find-the-program-for {
+    color: var(--white);
+    font-family: var(--font-family-fira_sans);
+    font-size: 50px;
+    font-weight: 400;
+    height: 296px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-align: center;
+    width: 1138px;
+  }
+  
+  .csu95admissions .span0 {
+    font-weight: 600;
+  }
+  
+  .csu95admissions .span1 {
+    font-size: var(--font-size-xxxxl);
+  }
+  
+  .csu95admissions .programs_-button {
+    align-items: flex-start;
+    cursor: pointer;
+    display: flex;
+    height: 93px;
+    left: 510px;
+    min-width: 432px;
+    position: absolute;
+    top: 306px;
+  }
+  
+  .csu95admissions .overlap-group-2 {
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .csu95admissions .view-programs {
+    height: 93px;
+    left: 82px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 268px;
+  }
+  
+  .csu95admissions .rectangle-10-1 {
+    border: 5px solid;
+    border-color: var(--white);
+    border-radius: 15px;
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 432px;
+  }
+  
+  .csu95admissions .bottom-bar {
+    align-items: center;
+    background-color: var(--merlot);
+    display: flex;
+    height: 209px;
+    min-width: 1440px;
+    padding: 26px 97px;
+  }
+  
+  .csu95admissions .flex-col {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 130px;
+    width: 443px;
+  }
+  
+  .csu95admissions .college-of-engineering {
+    height: 53px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 443px;
+  }
+  
+  .csu95admissions .address {
+    height: 77px;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 272px;
+  }
+  
+  .csu95admissions .flex-col-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    margin-bottom: 10.0px;
+    margin-left: 269px;
+    min-height: 85px;
+    width: 472px;
+  }
+  
+  .csu95admissions .overlap-group-3 {
+    height: 93px;
+    width: 432px;
+  }

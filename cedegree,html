@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/psu95ceu95degree.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="psu95ceu95degree" />
+    <div class="container-center-horizontal">
+      <div class="psu95ceu95degree screen">
+        <div class="twu_-nav-bar">
+          <div class="twu_top_bar-container">
+            <div class="twu_-top_-bar"></div>
+            <p class="twu_-top_-bar-1 valign-text-middle firasans-normal-black-16px">
+              Students&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty &amp;
+              Staff&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alumni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visitors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents
+              &amp; Familia
+            </p>
+          </div>
+          <img class="twu_logo" src="img/twu-logo.png" alt="TWU_logo" />
+<!-- NAVBAR --------------------------- -->
+        <div class="navbar firasans-normal-white-20px">
+          <div class="navbar-link-about valign-text-middle">
+            <a href="index.html" style=color:#ffffff; text-decoration: none; >About</a>
+          </div>
+
+          <div class="navbar-link-about valign-text-middle">
+            <a href="degrees.html" style=color:#ffffff; text-decoration: none; >Programs</a>
+          </div>
+          
+          <div class="navbar-link valign-text-middle">
+            <a href="research.html" style=color:#ffffff; text-decoration: none;>Research</a>
+          </div>
+
+          <div class="navbar-link valign-text-middle">
+            <a href="admissions.html" style=color:#ffffff; text-decoration: none;>Admissions</a>
+          </div>
+
+          <div class="navbar-link valign-text-middle">
+            <a href="facultystaff.html" style=color:#ffffff; text-decoration: none;>Faculty &amp; Staff</a>
+          </div>
+
+          <div class="navbar-link-contact-us valign-text-middle">Contact Us</div>
+        </div>
+      </div>
+
+<!-- --------------------------- -->
+        
+        <div class="heading">
+          <div class="bachelor-of-science valign-text-middle firasans-normal-white-30px">Bachelor of Science</div>
+          <h1 class="biomedical-engineering valign-text-middle firasans-semi-bold-white-70px">Computer Engineering</h1>
+        </div>
+        <p class="the-bachelor-of-scie valign-text-middle firasans-light-black-20px">
+          The Bachelor of Science degree with a major in computer engineering is designed for students who wish to
+          specialize in computer hardware, communication systems, digital signal processing, micro-controllers,
+          real-time and embedded systems. Computer engineering students are exposed to both theoretical and practical
+          issues of both hardware and software in laboratories with state-of-the art equipment. The program provides a
+          strong engineering background, with an understanding of the principles and techniques of computing. A
+          professional degree, which includes a two-term/semester senior design project sequence, prepares the graduates
+          for a career and graduate studies in computer engineering and related fields.
+        </p>
+        <div class="degree-requirements">
+          <div class="overlap-group17">
+            <div class="degree-requirements-1 valign-text-middle firasans-semi-bold-merlot-40px">
+              Degree Requirements
+            </div>
+            <img class="line-2" src="img/line-2.svg" alt="Line 2" />
+          </div>
+          <p class="total-semester-credi valign-text-middle">
+            <span
+              ><span class="firasans-light-black-20px">Total Semester Credit Hours (SCH): </span
+              ><span class="firasans-bold-black-20px">120<br /></span
+              ><span class="firasans-light-black-20px">Major Credit Hours: </span
+              ><span class="firasans-bold-black-20px">44 SCH<br /><br /></span
+              ><span class="span4">Required Minor Credit Hours: 18 SCH</span>
+            </span>
+          </p>
+        </div>
+        <div class="texas-core-curr">
+          <div class="texas-core-curriculum valign-text-middle firasans-semi-bold-merlot-30px">
+            Texas Core Curriculum
+          </div>
+          <div class="class-tile">
+            <div class="overlap-group13">
+              <div class="eng valign-text-middle firasans-bold-black-20px">ENG 1013</div>
+              <div class="surname-2 valign-text-middle firasans-normal-black-20px">English Composition I</div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group5">
+              <div class="eng valign-text-middle firasans-bold-black-20px">ENG 1023</div>
+              <div class="surname-2 valign-text-middle firasans-normal-black-20px">English Composition II</div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="hist-container">
+              <div class="hist-1013 valign-text-middle firasans-bold-black-20px">HIST 1013</div>
+              <p class="history-of-the-unite valign-text-middle firasans-normal-black-20px">
+                History of the United States, Pre-Civil War
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="hist-container-3">
+              <div class="hist-1023 valign-text-middle firasans-bold-black-20px">HIST 1023</div>
+              <p class="history-of-the-unite-3 valign-text-middle firasans-normal-black-20px">
+                History of the United States, Post-Civil War
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group1">
+              <div class="pols valign-text-middle firasans-bold-black-20px">POLS 2013</div>
+              <div class="introduction-to-biomedical-engineering valign-text-middle firasans-normal-black-20px">
+                Introduction to Biomedical Engineering
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group7">
+              <div class="pols valign-text-middle firasans-bold-black-20px">POLS 2023</div>
+              <div class="introduction-to-biomedical-engineering-1 valign-text-middle firasans-normal-black-20px">
+                Introduction to Biomedical Engineering
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group2">
+              <div class="biolchem-3 valign-text-middle firasans-bold-black-20px">BIOL/CHEM</div>
+              <p class="life-physical-science-credit valign-text-middle firasans-normal-black-20px">
+                Life &amp; Physical Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="soci-container">
+              <div class="socipsyc-5 valign-text-middle firasans-bold-black-20px">SOCI/PSYC</div>
+              <p class="social-behavioral-science-credit valign-text-middle firasans-normal-black-20px">
+                Social &amp; Behavioral Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group3">
+              <div class="biolchem-3 valign-text-middle firasans-bold-black-20px">BIOL/CHEM</div>
+              <p class="life-physical-science-credit-3 valign-text-middle firasans-normal-black-20px">
+                Life &amp; Physical Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="soci-container-5">
+              <div class="socipsyc-5 valign-text-middle firasans-bold-black-20px">SOCI/PSYC</div>
+              <p class="social-behavioral-science-credit-5 valign-text-middle firasans-normal-black-20px">
+                Social &amp; Behavioral Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group4">
+              <div class="biolchem-3 valign-text-middle firasans-bold-black-20px">BIOL/CHEM</div>
+              <p class="life-physical-science-credit-3 valign-text-middle firasans-normal-black-20px">
+                Life &amp; Physical Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="soci-container-5">
+              <div class="socipsyc-5 valign-text-middle firasans-bold-black-20px">SOCI/PSYC</div>
+              <p class="social-behavioral-science-credit-5 valign-text-middle firasans-normal-black-20px">
+                Social &amp; Behavioral Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-3 class-tile-13">
+            <div class="soci-container-5">
+              <div class="socipsyc-5 valign-text-middle firasans-bold-black-20px">SOCI/PSYC</div>
+              <p class="social-behavioral-science-credit-5 valign-text-middle firasans-normal-black-20px">
+                Social &amp; Behavioral Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-4 class-tile-13">
+            <div class="soci-container-5">
+              <div class="socipsyc-5 valign-text-middle firasans-bold-black-20px">SOCI/PSYC</div>
+              <p class="social-behavioral-science-credit-5 valign-text-middle firasans-normal-black-20px">
+                Social &amp; Behavioral Science Credit
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-5 class-tile-13 firasans-bold-white-20px">
+            <div class="total-sc-hs valign-text-middle">Total SCHs</div>
+            <div class="address valign-text-middle address-2">42 SCH</div>
+          </div>
+        </div>
+        <div class="deg-curr">
+          <div class="name valign-text-middle firasans-semi-bold-merlot-30px">Major Requirements</div>
+          <div class="class-tile">
+            <div class="overlap-group14">
+              <div class="eng-1013-3 valign-text-middle firasans-bold-black-20px">MATH 2014</div>
+              <div class="english-composition valign-text-middle firasans-normal-black-20px">Calculus I</div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group5-1">
+              <div class="eng-1023-1 valign-text-middle firasans-bold-black-20px">MATH 3013</div>
+              <div class="english-composition valign-text-middle firasans-normal-black-20px">Discrete Mathematics</div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="classtile-container">
+            <div class="class-tile-6 class-tile-13">
+              <div class="hist-container-3">
+                <div class="hist-1013-1 valign-text-middle firasans-bold-black-20px">MATH 4013</div>
+                <div class="history-of-the-unite-3 valign-text-middle firasans-normal-black-20px">
+                  Probability and Statistics
+                </div>
+              </div>
+              <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+            </div>
+            <div class="class-tile-7 class-tile-13">
+              <div class="overlap-group11">
+                <div class="math-3073 valign-text-middle firasans-bold-black-20px">CSCI 1013</div>
+                <div class="matrix-methods valign-text-middle firasans-normal-black-20px">Computer Science I</div>
+              </div>
+              <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+            </div>
+            <div class="class-tile-8 class-tile-13">
+              <div class="overlap-group13-1">
+                <div class="eng-1013-3 valign-text-middle firasans-bold-black-20px">CSCI 1040</div>
+                <div class="introduction-to-engineering valign-text-middle firasans-normal-black-20px">
+                  Computer Science II
+                </div>
+              </div>
+              <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+            </div>
+          </div>
+          <div class="class-tile-9 class-tile-13">
+            <div class="overlap-group6">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 2100</div>
+              <div class="discover-biomedical-engineering valign-text-middle firasans-normal-black-20px">
+                Foundations of Computing
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">2 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group1-1">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 2110</div>
+              <div class="software-for-biomedical-engineers valign-text-middle firasans-normal-black-20px">
+                Foundations of Data Structures
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group7-1">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 2610</div>
+              <p class="biomedical-circuits-data-acquisition valign-text-middle firasans-normal-black-20px">
+                Assembly Language &amp; Computer Organization
+              </p>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group2-1">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 3010</div>
+              <div class="biomedical-instrumentation-i valign-text-middle firasans-normal-black-20px">
+                Signals &amp; Systems
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group8">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 3020</div>
+              <div class="engineering-measurements valign-text-middle firasans-normal-black-20px">
+                Communication Systems
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group3-1">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 3600</div>
+              <div class="biomedical-signal-analysis valign-text-middle firasans-normal-black-20px">
+                Principles of Systems Programming
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-1 class-tile-13">
+            <div class="overlap-group9">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 3612</div>
+              <div class="biomaterials valign-text-middle firasans-normal-black-20px">System Designs</div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="class-tile-2 class-tile-13">
+            <div class="overlap-group4-1">
+              <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 4011</div>
+              <div class="biomedical-transport-phenomena valign-text-middle firasans-normal-black-20px">
+                Engineering Ethics
+              </div>
+            </div>
+            <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+          </div>
+          <div class="classtile-container-1">
+            <div class="class-tile-10 class-tile-13">
+              <div class="overlap-group10">
+                <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 4910</div>
+                <div class="senior-design valign-text-middle firasans-normal-black-20px">
+                  Computer Engineering Design I
+                </div>
+              </div>
+              <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+            </div>
+            <div class="class-tile-11 class-tile-13">
+              <div class="overlap-group12">
+                <div class="bmen valign-text-middle firasans-bold-black-20px">CSCE 4915</div>
+                <div class="senior-design valign-text-middle firasans-normal-black-20px">
+                  Computer Engineering Design II
+                </div>
+              </div>
+              <div class="address valign-text-middle address-2 firasans-bold-merlot-20px">3 SCH</div>
+            </div>
+            <div class="class-tile-12 class-tile-13 firasans-bold-white-20px">
+              <div class="total-sc-hs valign-text-middle">Total SCHs</div>
+              <div class="address valign-text-middle address-2">44 SCH</div>
+            </div>
+          </div>
+        </div>
+        <div class="bottom-bar">
+          <div class="flex-col">
+            <div class="college-of-engineering valign-text-middle firasans-semi-bold-white-30px">
+              College of Engineering
+            </div>
+            <p class="address-1 valign-text-middle address-2 firasans-light-white-20px">
+              Texas Woman’s University<br />MCL Floor 3<br />P.O Box 1234 Denton, TX 75123
+            </p>
+          </div>
+          <div class="flex-col-1 firasans-bold-white-20px">
+            <div class="flex-col-item valign-text-middle">engineering@twu.edu | enggraduate@twu.edu</div>
+            <p class="flex-col-item valign-text-middle">940 - 898 - 2000 | 940 - 898 - 1234</p>
+          </div>
+          <div class="_icon-container">
+            <img class="email_icon" src="img/email-icon.svg" alt="email_icon" />
+            <img class="phone_icon" src="img/phone-icon.svg" alt="phone_icon" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
